@@ -1,0 +1,37 @@
+#EXTM3U
+
+# TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI Nasional" group-title="Indonesia",TVRI Nasional
+https://tvri.b-cdn.net/live/stream.m3u8
+
+# CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia" tvg-name="CNN Indonesia" group-title="Indonesia",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+# CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBCIndonesia" tvg-name="CNBC Indonesia" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+# Kompas TV
+#EXTINF:-1 tvg-id="KompasTV" tvg-name="Kompas TV" group-title="Indonesia",Kompas TV
+https://kompastvstream.akamaized.net/live/kompastv/live1/kompastv.m3u8
+
+# TV Edukasi (Kemendikbud)
+#EXTINF:-1 tvg-id="TVEdukasi" tvg-name="TV Edukasi" group-title="Pendidikan",TV Edukasi
+https://live.tv.guruberbagi.kemdikbud.go.id/live/TVE/playlist.m3u8
+
+# Rodja TV
+#EXTINF:-1 tvg-id="RodjaTV" tvg-name="Rodja TV" group-title="Islami",Rodja TV
+https://rodja.tv/live/rodja.m3u8
+
+# TV9 Nusantara
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9 Nusantara" group-title="Islami",TV9 Nusantara
+https://tv9stream.tv9nusantara.com/hls/tv9.m3u8
+
+# MQTV (Aa Gym - Bandung)
+#EXTINF:-1 tvg-id="MQTV" tvg-name="MQTV Bandung" group-title="Islami",MQTV Bandung
+https://live.mqtv.id/mqtv/playlist.m3u8
+
+# Aswaja TV
+#EXTINF:-1 tvg-id="AswajaTV" tvg-name="Aswaja TV" group-title="Islami",Aswaja TV
+https://aswajatvstream.com/live/aswajatv.m3u8
